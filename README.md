@@ -1,1 +1,3 @@
-# sputnik_s2
+sputnik UI
+
+[Docs](https://altyntsev.github.io/)
